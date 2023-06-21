@@ -1,2 +1,2 @@
-# courseratest
-Coursera test repository
+# pract
+jav_rel
